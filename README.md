@@ -44,9 +44,11 @@ possible.
 
 ## Running online environment
 
-Interested in contributing instantly? You can make your updates directly without cloning in the running CodeSandbox environment.
+Interested in contributing instantly? You can make your updates and run tests directly without cloning using CodeSandbox or Replit.
 
 [![Button to click and edit code in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/TBD54566975/web5-js/main)
+
+[![Run and edit on Replit](https://repl.it/badge/github/TBD54566975/web5-js)](https://replit.com/new/github/TBD54566975/web5-js)
 
 
 ## Prerequisites
